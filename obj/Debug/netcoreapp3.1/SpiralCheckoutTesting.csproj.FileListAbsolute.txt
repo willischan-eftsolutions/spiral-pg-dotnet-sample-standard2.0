@@ -1,0 +1,13 @@
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\bin\Debug\netcoreapp3.1\SpiralCheckoutTesting.exe
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\bin\Debug\netcoreapp3.1\SpiralCheckoutTesting.deps.json
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\bin\Debug\netcoreapp3.1\SpiralCheckoutTesting.runtimeconfig.json
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\bin\Debug\netcoreapp3.1\SpiralCheckoutTesting.runtimeconfig.dev.json
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\bin\Debug\netcoreapp3.1\SpiralCheckoutTesting.dll
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\bin\Debug\netcoreapp3.1\SpiralCheckoutTesting.pdb
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\obj\Debug\netcoreapp3.1\SpiralCheckoutTesting.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\obj\Debug\netcoreapp3.1\SpiralCheckoutTesting.AssemblyInfo.cs
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\obj\Debug\netcoreapp3.1\SpiralCheckoutTesting.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\obj\Debug\netcoreapp3.1\SpiralCheckoutTesting.dll
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\obj\Debug\netcoreapp3.1\SpiralCheckoutTesting.pdb
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\obj\Debug\netcoreapp3.1\SpiralCheckoutTesting.genruntimeconfig.cache
+C:\Users\willi\source\repos\SpiralCheckoutTesting\SpiralCheckoutTesting\obj\Debug\netcoreapp3.1\SpiralCheckoutTesting.csprojAssemblyReference.cache
